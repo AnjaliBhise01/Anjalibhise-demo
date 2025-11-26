@@ -1,4 +1,5 @@
 # Anjalibhise-demo
-This  is my first git repository.
+
+This is my first git repository.
 <br>
-author - Anjali Bhise
+author - Anjali Bhise (NMIET)
